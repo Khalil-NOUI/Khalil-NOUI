@@ -33,7 +33,7 @@ All my projects live here on GitHub. My two most recent personal projects includ
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Khalil-NOUI/poolfolio/pull/5) in [Khalil-NOUI/poolfolio](https://github.com/Khalil-NOUI/poolfolio)
+1. 🎉 Merged PR [#6](https://github.com/Khalil-NOUI/poolfolio) in [Khalil-NOUI/poolfolio](https://github.com/Khalil-NOUI/poolfolio)
 2. 🎉 Merged PR [#1](https://github.com/Khalil-NOUI/previous-avoid/pull/1) in [Khalil-NOUI/previous-avoid](https://github.com/Khalil-NOUI/previous-avoid)
 <!--END_SECTION:activity-->
 
