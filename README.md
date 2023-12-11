@@ -22,8 +22,8 @@ All my projects live here on GitHub. My two most recent personal projects includ
   </a>
 </td>
 <td align="center">
-  <a href="https://poolfolio.vercel.app/">
-    <img src="" alt="My Personal Site"> <br/>
+  <a href="https://github.com/Khalil-NOUI/poolfolio">
+    <img src="/aide%20be%20aide%20cover%20photo.png" alt="My Personal Site"> <br/>
     <sub>My Personal Site</sub>
   </a>
 </td>
