@@ -17,13 +17,13 @@ All my projects live here on GitHub. My two most recent personal projects includ
 <tr>
 <td align="center">
   <a href="https://github.com/202306-NEA-DZ-FEW/team-nine-capstone">
-    <img src="/Aide%20Be%20Aide.png" alt="Volunteer website"> <br/>
-    <sub> Volunteering Platform</sub>
+    <img src="/AideBeAide.png" alt="Volunteer website"> <br/>
+    <sub> Volunteering Website </sub>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/Khalil-NOUI/poolfolio">
-    <img src="/aide%20be%20aide%20cover%20photo.png" alt="My Personal Site"> <br/>
+    <img src="/Web%20Developer%20and%20UX_UI%20Designer.png" alt="My Personal Site"> <br/>
     <sub>My Personal Site</sub>
   </a>
 </td>
