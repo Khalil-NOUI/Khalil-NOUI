@@ -81,6 +81,9 @@ All my projects live here on GitHub. My two most recent personal projects includ
 Feel free to reach out
 [email].
 <div id="badges">
+  <a href="https://mailto:noui.khalil.pr@gmail.com">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/khalil-noui-pr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
