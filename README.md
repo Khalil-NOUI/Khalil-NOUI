@@ -2,17 +2,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJncnAwMmpqdjlwODdja2VnczhnZXpsbTd0b3c1aXptZ212NnptYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/khalil-noui-pr">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Khalil__Noui">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
-
 ---
 
 ### :man_technologist: About Me :
@@ -89,7 +78,16 @@ All my projects live here on GitHub. My two most recent personal projects includ
 
 ### :fax: Contact Me
 
-Feel free to reach out to me via [email][email].
+Feel free to reach out
+[email].
+<div id="badges">
+  <a href="https://www.linkedin.com/in/khalil-noui-pr">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Khalil__Noui">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ---
 
