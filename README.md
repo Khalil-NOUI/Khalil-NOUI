@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me :
 
-I'm Khalil NOUI, a frontend developer with a passion for crafting elegant and user-friendly web experiences. Specializing in open-source development, I continuously strive to contribute to projects that benefit the developer community and beyond.
+I'm Khalil, a Web developer with a passion for crafting elegant and user-friendly web experiences. Specializing in open-source development, I continuously strive to contribute to projects that benefit the developer community and beyond.
 
 In my spare time, I love writing and exploring technical articles and building projects. Additionally, I enjoy playing chess and football.
 
@@ -81,7 +81,7 @@ All my projects live here on GitHub. My two most recent personal projects includ
 
 
 <div id="badges">
-  <a href="https://mailto:noui.khalil.pr@gmail.com">
+  <a href="mailto:noui.khalil.pr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/khalil-noui-pr">
