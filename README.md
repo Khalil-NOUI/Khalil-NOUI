@@ -64,12 +64,6 @@ All my projects live here on GitHub. My two most recent personal projects includ
 
 ---
 
-### :fire::fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khalil-NOUI&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
 ### :fire: Top Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-NOUI&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
